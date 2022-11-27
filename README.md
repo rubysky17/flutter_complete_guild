@@ -1,16 +1,10 @@
-# flutter_complete_course
+# Khoá học Flutter của Mạnh Đạt Created_At: 27/11/2022
 
-A new Flutter project.
+- Đây là Source trong suốt quá trình tự học Flutter theo khoá học Flutter Complete Guide.
 
-## Getting Started
+<img src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5d00c852a39181560332370.png" />
 
-This project is a starting point for a Flutter application.
+## Bắt đầu với Project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Project sẽ được theo dõi theo từng branch độc lập
+- Ví dụ: Topic 1: Làm quen với Flutter. Sẽ được tạo tương ứng với branch là <Tên topic>_<Nội dung topic>_<phần 1,2,3,4>
